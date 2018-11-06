@@ -1,0 +1,11 @@
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/bin/Debug/netcoreapp2.1/Async_Crawler.deps.json
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/bin/Debug/netcoreapp2.1/Async_Crawler.runtimeconfig.json
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/bin/Debug/netcoreapp2.1/Async_Crawler.runtimeconfig.dev.json
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/bin/Debug/netcoreapp2.1/Async_Crawler.dll
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/bin/Debug/netcoreapp2.1/Async_Crawler.pdb
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.csprojAssemblyReference.cache
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.csproj.CoreCompileInputs.cache
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.AssemblyInfoInputs.cache
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.AssemblyInfo.cs
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.dll
+/Users/tokoshige_mac/Documents/myVsCode/Async_Crawler/obj/Debug/netcoreapp2.1/Async_Crawler.pdb
